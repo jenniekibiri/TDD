@@ -1,4 +1,4 @@
-var app=require("../server.js");
+var app=require("../src/add.js");
 //1.name the test
 //2.give description about the test
 //3.pass params

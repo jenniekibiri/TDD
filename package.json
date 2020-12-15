@@ -21,6 +21,9 @@
     "jasmine": "^3.6.3"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jasmine-node": "^3.0.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.6"
   }
 }
